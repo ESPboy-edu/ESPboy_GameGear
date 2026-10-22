@@ -1,6 +1,6 @@
 # **ESPboy Game Gear Emulator**
 
-A high-performance, deeply optimized Sega Master System (SMS) and Game Gear (GG) emulator ported to the **ESPboy** handheld platform (ESP8266 @ 160 MHz, \~80 KB RAM, 128×128 color TFT LCD).  
+A high-performance, deeply optimized Game Gear (GG) emulator ported to the **ESPboy** handheld platform (ESP8266 @ 160 MHz, \~80 KB RAM, 128×128 color TFT LCD).  
 This project pushes the resource-constrained ESP8266 microchip to its absolute limits, delivering smooth gameplay and crisp audio through cycle-accurate assembly-level tweaks, cache prefetching, branchless algorithms, and hardware-accelerated SPI and Sigma-Delta pipelines.
 
 ## **Key Features**
